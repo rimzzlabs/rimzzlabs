@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Rizki Maulana Citra
-I'm a Front-end Web Developer based in Banten, Indonesia. I'm getting started to Web Programming since early 2021 and I choose the Front-end path. I love to write code in JavaScript, and everyday I often to practice so I will become a real Front-end Engineer.
+I'm a Front-end Web Developer based in Banten, Indonesia.<br/>I'm getting started to Web Programming since early 2021 and choose Front-end path.<br/>I love to write code in JavaScript, and my dream is to become a Front-end Engineer.
 
 Currently I'm learning NextJS, TypeScript and waiting for announcement of admission of new students in AMIK Serang.
 
