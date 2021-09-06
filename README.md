@@ -1,3 +1,11 @@
+## 👋 Hi, I'm Rizki Maulana Citra
+I'm a Front-end Web Developer based in Banten, Indonesia. I'm getting started to Web Programming since early 2021 and I choose the Front-end path. I love to write code in JavaScript, and everyday I often to practice so I will become a real Front-end Engineer.
 
-### Hello there 👋
-My Name is Rizki Maulana Citra, Nice to meet you.
+### ⚔️ Tech Stack I prefer
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=039be5&logo=Tailwind+CSS&logoColor=FFFFFF&label=) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/typescript-1565c0.svg?style=for-the-badge&logo=typescript&logoColor=white)    ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 📊 Rizki's Stats
+|Github Stats|Languages|
+|---|---|
+|[![](https://github-readme-stats.vercel.app/api?username=mlnzyx)](https://github.com/mlnzyx/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mlnzyx&layout=compact)](https://github.com/mlnzyx/github-readme-stats)|
+ 
