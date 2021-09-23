@@ -9,8 +9,8 @@ Currently I'm learning NextJS, TypeScript and Express.
 ### ⚔️ Tech Stack I Prefer
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📊 My Stats
-|Github Stats|Languages|
+### 📊 Stats
+|GitHub Statistic|Languages|
 |---|---|
-|[![](https://github-readme-stats.vercel.app/api?username=rizkimcitra)](https://github.com/rizkimcitra/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact)](https://github.com/rizkimcitra/github-readme-stats)|
+|[![](https://github-readme-stats.vercel.app/api?username=rizkimcitra)]|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact)]|
  
