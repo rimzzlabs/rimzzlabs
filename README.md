@@ -12,5 +12,5 @@ Currently I'm learning NextJS, TypeScript and Express.
 ### 📊 Stats
 |GitHub Statistic|Languages|
 |---|---|
-|[![](https://github-readme-stats.vercel.app/api?username=rizkimcitra)]|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact)]|
+|![](https://github-readme-stats.vercel.app/api?username=rizkimcitra)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact)|
  
