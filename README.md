@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Rizki Maulana Citra
-I'm a Front-end Web Developer based in Banten, Indonesia.<br/>I'm getting started to Web Programming since 1 Year ago, I got serious with JavaScript about 8 Months ago.<br/>I love to write code in JavaScript.<br/>
+I'm a Front-end Web Developer based in Banten, Indonesia.<br/>I'm getting started to Web Programming about 1 Year ago, and I love to write code in JavaScript.<br/>
 Currently I'm learning NextJS, TypeScript and ExpressJS.
 ### ✉️ Get in Touch
 <a href="mailto:rmaulana.citra@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
