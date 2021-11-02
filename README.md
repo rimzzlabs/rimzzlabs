@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Rizki Maulana Citra
 I'm a Front-end Web Developer based in Banten, Indonesia.<br/>
-I love about Frontend world, and I'm mainly working with React, and Next.js for Server-Side Application.
-I'm looking for open source project where I can contribute with my Frintend Skills.
+I love about Frontend world, and I'm mainly working with React, and Next.js for Server-Side Application.<br/>
+I'm looking for open source project where I can contribute with my Frontend Skills.
 
 ### ✉️ Get in Touch
 <a href="mailto:rmaulana.citra@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
