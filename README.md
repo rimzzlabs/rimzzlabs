@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rizki Maulana Citra
 I'm a Frontend Developer based in Banten, Indonesia.<br/>
-I love about Frontend world, and I'm mainly working with React, and Next.js for Server-Side Application.<br/>
+I love about Frontend world, JavaScript based Web App, nice to meet you.
 
 ### ⚔️ Languages
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
