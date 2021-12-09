@@ -15,5 +15,5 @@ Feel free to [get in touch](mailto:rmaulana.citra@gmail.com?subject=Hi!) with me
 ### GitHub Stats
 |||
 |---|---|
-|![](https://github-readme-stats.vercel.app/api?username=rizkimcitra)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=rizkimcitra&theme=city_lights)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact&theme=city_lights)|
  
