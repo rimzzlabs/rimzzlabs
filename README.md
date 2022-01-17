@@ -1,7 +1,7 @@
-👋 Hi I'm
+👋 Hi there it's
 
 # Rizki Maulana Citra
-I'm a Frontend Web Developer based in Banten, Indonesia<br/>
+A Frontend Web Developer from Banten, Indonesia<br/>
 Feel free to check my [site](https://rizkicitra.my.id) or [get in touch](mailto:rmaulana.citra@gmail.com?subject=Hi!) with me!.
 
 ### GitHub Stats
