@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
+- 👀 I'm interested in JavaScript Web App, and React Ecosystem
+
 - 💬 Ask me about **React, JavaScript, CSS**
 
 - 📫 How to reach me **rmaulana.citra@gmail.com**
