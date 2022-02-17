@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizki Maulana Citra</h1>
+<h1 align="center">Hi 👋, I'm Rizki M Citra</h1>
 <h3 align="center">Student and Frontend Developer from Indonesia, currently pursuing diploma at age 18, and hopefully be able to continue my degree.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p>
