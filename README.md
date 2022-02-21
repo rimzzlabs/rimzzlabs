@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Coffee can help me solve problem when debugging**
 
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rizkimcitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkimcitra" height="30" width="40" /></a>
@@ -20,9 +22,36 @@
 <a href="https://fb.com/rizkimcitraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizkimcitraa" height="30" width="40" /></a>
 </p>
 
+<hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkimcitra&show_icons=true&locale=en&layout=compact" alt="rizkimcitraa" /></p>
+<details>
+  <summary>GitHub Stats</summary>
+  <p align="left">
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rizkimcitra&show_icons=true" alt="rizkimcitraa" />
+  </p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkimcitra&show_icons=true&locale=en" alt="rizkimcitraa" /></p>
+<details>
+  <summary>Strike</summary>
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkimcitra&" alt="rizkimcitraa" />
+  </p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkimcitra&" alt="rizkimcitraa" /></p>
+<details>
+  <summary>Wakatime Stats</summary>
+
+- This Week I Spent on
+    <hr />
+  
+  <p align="left">
+    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/5e3f075c-db61-43fd-adb7-f4b32c4e7a63.svg" alt="Wakatime Week Stat" />
+  </p>
+  
+- This Week's most used languages
+  <hr />
+  
+  <p align="left">
+    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/e201bb17-895c-4191-abd7-b540d9b1c947.svg" alt="Wakatime Stats" />
+  </p>
+</details>
