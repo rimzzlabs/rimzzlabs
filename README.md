@@ -41,7 +41,7 @@
 <details>
   <summary>Wakatime Stats</summary>
 
-- This Week I Spent on
+- This Week's tiem spended for coding
     <hr />
   
   <p align="left">
