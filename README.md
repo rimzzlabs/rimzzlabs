@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Node**
 
-- 👀 I'm interested in JavaScript Web App, and React Ecosystem
-
-- 💬 Ask me about **React, JavaScript, CSS**
+- 👀 I'm interested in JavaScript Web Application, and React Ecosystem
 
 - 📫 How to reach me **rmaulana.citra@gmail.com**
 
