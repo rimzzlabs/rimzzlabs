@@ -27,6 +27,10 @@
   <p align="left">
     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rizkimcitra&show_icons=true" alt="rizkimcitraa" />
   </p>
+
+  <p align="left">
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimcitra&layout=compact&hide=php&langs_count=6" />
+  </p>
 </details>
 
 <details>
