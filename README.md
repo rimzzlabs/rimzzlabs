@@ -13,15 +13,6 @@
 
 <hr />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rizkimcitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkimcitra" height="30" width="40" /></a>
-<a href="https://instagram.com/rizkimcitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkimcitraa" height="30" width="40" /></a>
-<a href="https://fb.com/rizkimcitraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizkimcitraa" height="30" width="40" /></a>
-</p>
-
-<hr />
-
 <details>
   <summary>GitHub Stats</summary>
   <p align="left">
