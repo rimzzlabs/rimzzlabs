@@ -1,0 +1,82 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Mayukai Semantic Mirage",
+  "editor.fontLigatures": "Iosevka Mayukai Original",
+  "editor.fontFamily": "Iosevka Mayukai Original",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrap": "on",
+  "html.format.wrapAttributes": "aligned-multiple",
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.jsxSingleQuote": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.defaultDateFormat": "DDMMYYYY",
+  "gitlens.defaultDateShortFormat": null,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "thunder-client.codeSnippetLanguage": "js-fetch",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.minimap.enabled": false,
+  "prettier.semi": true,
+  "workbench.statusBar.visible": true,
+  "editor.bracketPairColorization.enabled": true,
+  "prettier.singleQuote": false,
+  "prettier.trailingComma": "all",
+  "eslint.lintTask.enable": true,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "prettier.printWidth": 110,
+  "prettier.quoteProps": "consistent",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "prettier.jsxBracketSameLine": true,
+  "window.zoomLevel": 2,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "css.lint.unknownAtRules": "ignore",
+  "editor.inlineSuggest.enabled": true,
+  "workbench.sideBar.location": "right",
+  "glassit.alpha": 230,
+  "glassit.step": 1,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "breadcrumbs.filePath": "last",
+  "breadcrumbs.symbolPath": "on",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": true,
+    "php": true,
+    "javascript": true,
+    "html": false,
+    "typescriptreact": true
+  },
+  "[javascriptreact, javascriptm typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "http.systemCertificates": false,
+  "workbench.colorCustomizations": {},
+  "editor.formatOnSave": true,
+  "workbench.tree.indent": 4,
+  "prettier.endOfLine": "auto",
+  "tailwindCSS.lint.cssConflict": "error",
+  "tailwindCSS.lint.recommendedVariantOrder": "error",
+  "ltex.dictionary": {
+    "en-US": ["adaptivity", "precomputed", "subproblem", "Preact", "RizkiCitra✨"],
+    "de-DE": ["B-Splines", ":/path/to/externalFile.txt"]
+  }
+}
