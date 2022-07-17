@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node.js**
 
 - 👀 I'm interested in JavaScript Web Application, and React Ecosystem
 
