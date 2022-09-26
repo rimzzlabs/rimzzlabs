@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rizki M Citra</h1>
-<h3 align="center">I love to explore new things about Web Development related topics, and I am currently work as a Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+<br />
 
-- 👀 I'm interested in JavaScript Web Application, and React Ecosystem
+I love to explore new things about web development-related topics, user experience, frontend architecture, and user accessibillity.
 
-- 📫 How to reach me **rmaulana.citra@gmail.com**
-
-- ⚡ Fun fact **Coffee can help me solve problem when debugging**
+- 🌱 I’m currently learning **Frontend Testing**
+- 🎨 I'm focusing on **Frontend Technologies**
+- 👀 I'm interested with **Kotlin**
+- ⚡ Fun fact **I write code**
 
 <hr />
 
