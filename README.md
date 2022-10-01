@@ -33,13 +33,6 @@ I love to explore new things about web development-related topics, user experien
 
 <details>
   <summary>Wakatime Stats</summary>
-
-- This Week's time spended for coding
-    <hr />
-  
-  <p align="left">
-    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/5e3f075c-db61-43fd-adb7-f4b32c4e7a63.svg" alt="Wakatime Week Stat" />
-  </p>
   
 - This Week's most used languages
   <hr />
