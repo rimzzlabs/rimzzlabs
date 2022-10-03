@@ -4,6 +4,8 @@
 
 <br />
 
+> Too long to pronounce my name? you can use my first or my last name to say hi, for example: `Hi Rizki` or `Hi Citra`.
+
 I love to explore new things about web development-related topics, user experience, frontend architecture, and user accessibillity.
 
 - 🌱 I’m currently learning **Frontend Testing**
