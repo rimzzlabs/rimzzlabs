@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizki Maulana Citra</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p>
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
 
 <br />
 
@@ -16,7 +16,9 @@ I love to explore new things about web development-related topics, user experien
 <hr />
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Statistics</summary>
+  
+  <hr />
   <p align="left">
     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rizkimcitra&show_icons=true" alt="rizkimcitraa" />
   </p>
@@ -27,14 +29,26 @@ I love to explore new things about web development-related topics, user experien
 </details>
 
 <details>
-  <summary>Strike</summary>
+  <summary>GitHub Strikes</summary>
+  
+  <hr />
   <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkimcitra&" alt="rizkimcitraa" />
   </p>
 </details>
 
 <details>
-  <summary>Wakatime Stats</summary>
+  <summary>
+    Holopin Badges
+  </summary>
+  
+  <hr />
+  
+  [![@rizkimcitra's Holopin board](https://holopin.me/rizkimcitra)](https://holopin.io/@rizkimcitra)
+</details>
+
+<details>
+  <summary>Wakatime Statistics</summary>
   
 - This Week's most used languages
   <hr />
