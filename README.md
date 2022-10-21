@@ -50,10 +50,10 @@ I love to explore new things about web development-related topics, user experien
 <details>
   <summary>Wakatime Statistics</summary>
   
-- This Week's most used languages
+- Languages overall
   <hr />
   
   <p align="left">
-    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/e201bb17-895c-4191-abd7-b540d9b1c947.svg" alt="Wakatime Stats" />
+    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/715b2b0a-09fc-4cf1-983d-8cf3b5360c97.svg" alt="Wakatime Stats" />
   </p>
 </details>
