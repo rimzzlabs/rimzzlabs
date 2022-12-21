@@ -8,7 +8,6 @@
 
 I love to explore new things about web development-related topics, user experience, frontend architecture, and user accessibillity.
 
-- 🌱 I’m currently learning **Frontend Testing**
 - 🎨 I'm focusing on **Frontend Technologies**
 - 👀 I'm interested with **Kotlin**
 - ⚡ Fun fact **I write code**
