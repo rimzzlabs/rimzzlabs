@@ -4,14 +4,11 @@
 
 <br />
 
-I love to explore new things about web development-related topics, frontend architecture, and user accessibillity, well you can call it Frontend Development. Very interested in optimizing performance for the best user experience on the web and Android Development.
-
 - 🎨 I'm focusing on **Frontend Technologies**
 - 👀 I'm interested with **Kotlin**
 - ⚡ Fun fact **I write code**
 
-> Too long to pronounce my name? you can use my first or my last name to say hi, for example: `Hi Rizki` or `Hi Citra`.
-
+> _Someone should teach me about Kotlin_
 
 <hr />
 
