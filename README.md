@@ -5,7 +5,7 @@
 <br />
 
 - 🎨 I'm focusing on **Frontend Technologies**
-- 👀 I'm interested with **Kotlin**
+- 👀 I'm interested with **FP, and UX**
 - ⚡ Fun fact **I write code**
 
 > _Someone should teach me about Kotlin_
