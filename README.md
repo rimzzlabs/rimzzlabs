@@ -51,6 +51,8 @@
   <hr />
   
   <p align="left">
-    <img src="https://wakatime.com/share/@6281467b-411b-412e-85f5-6ce5a7afe0b6/715b2b0a-09fc-4cf1-983d-8cf3b5360c97.svg" alt="Wakatime Stats" />
+    <img src="https://wakatime.com/share/@rizkimcitra/90c2e551-9021-4c2e-a087-12625f6453ef.png" alt="Wakatime Stats" />
   </p>
 </details>
+
+> All those fancy badges and stats does not represent my intelligent or any other nonsene you think it was, it's just for fun!
