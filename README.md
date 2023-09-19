@@ -55,4 +55,4 @@
   </p>
 </details>
 
-> All those fancy badges and stats does not represent my intelligent or any other nonsene you think it was, it's just for fun!
+> All those fancy badges and stats are just for fun!
