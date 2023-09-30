@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rizki Maulana Citra</h1>
 
+_(maybe)_ Software Engineer, Frontend Web, User Experience
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkimcitra&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
 
 <br />
 
-- 🎨 I'm focusing on **Frontend Technologies**
-- 👀 I'm interested with **FP, and UX**
-- ⚡ Fun fact **I write code**
-
-> _Someone should teach me about Kotlin_
+- 🎨 I craft smooth and intuitive user experience on the web
+- 👀 Interested with **Functional Programming, Web, and UX**
+- 🛵 I Ride
 
 <hr />
 
