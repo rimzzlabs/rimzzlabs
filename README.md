@@ -39,7 +39,7 @@ _(maybe)_ Software Engineer, UI/UX Engineer
   
   <hr />
   
-  [![@rimzzlabs's Holopin board](https://holopin.me/rimzzlabs)](https://holopin.io/@rimzzlabs)
+  [![@rimzzlabs's Holopin board](https://holopin.me/rizkimcitra)](https://holopin.io/@rizkimcitra)
 </details>
 
 <details>
@@ -49,7 +49,7 @@ _(maybe)_ Software Engineer, UI/UX Engineer
   <hr />
   
   <p align="left">
-    <img src="https://wakatime.com/share/@rimzzlabs/90c2e551-9021-4c2e-a087-12625f6453ef.png" alt="Wakatime Stats" />
+    <img src="https://wakatime.com/share/@rizkimcitra/90c2e551-9021-4c2e-a087-12625f6453ef.png" alt="Wakatime Stats" />
   </p>
 </details>
 
