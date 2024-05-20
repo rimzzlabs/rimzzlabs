@@ -28,7 +28,7 @@ _(maybe)_ Software Engineer, UI/UX Engineer
   
   <hr />
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimzzlabs&" alt="rizkimcitraa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimzzlabs" alt="rimzzlabs stats" />
   </p>
 </details>
 
