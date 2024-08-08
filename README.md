@@ -3,8 +3,8 @@
 Software Engineer, UI Engineer
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rimzzlabs&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
 
-<br />
-- 👀 Interested with **Functional Programming, Web, User Experience, and Design System**
+
+- 👀 Interested with **Functional Programming, Web, Interface and User Experience**
 
 <hr />
 
