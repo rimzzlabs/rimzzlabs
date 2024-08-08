@@ -4,8 +4,12 @@ Software Engineer, UI Engineer
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rimzzlabs&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
 
 
-- 👀 Interested with **Functional Programming, Web, Interface and User Experience**
-
+- Im interested with and pretty good at: 
+  - Web Technology
+  - UX Engineering
+  - Interface Engineering
+  - Functional Programming
+ 
 <hr />
 
 <details>
@@ -50,5 +54,3 @@ Software Engineer, UI Engineer
     <img src="https://wakatime.com/share/@rizkimcitra/90c2e551-9021-4c2e-a087-12625f6453ef.png" alt="Wakatime Stats" />
   </p>
 </details>
-
-> All those fancy badges and stats are just for fun!
