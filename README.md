@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizki Maulana Citra</h1>
+<h1 align="center">Hi 👋, I'm Rizki Citra</h1>
 
 Software Engineer, UI Engineer
 <!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rimzzlabs&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
