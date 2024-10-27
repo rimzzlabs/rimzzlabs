@@ -17,11 +17,11 @@ Software Engineer, UI Engineer
   
   <hr />
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rimzzlabs&show_icons=true" alt="rizkimcitraa" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rimzzlabs&show_icons=true&include_all_commits=true&custom_title=rimzzlabs+Stats+So+Far" alt="rizkimcitraa" />
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimzzlabs&layout=compact&hide=php,scss,shell&langs_count=7" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimzzlabs&layout=compact&hide=php,scss,shell&langs_count=10" />
   </p>
 </details>
 
